@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Your Name'
-description 'Wallhack script for Qbox'
+author 'Koldshiro'
+description 'Wall'
 version '1.0.0'
 
 client_scripts {
